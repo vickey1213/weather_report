@@ -12,7 +12,7 @@ function App() {
         <WeatherDashboard />
       </main>
       <footer className="app-footer">
-        <p>Copyright © 2023 Your Company Name</p>
+        <p>Copyright © 2023 Your Company Names</p>
       </footer>
     </div>
   );
